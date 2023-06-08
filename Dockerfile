@@ -1,4 +1,4 @@
-FROM mediawiki:1.39.2
+FROM mediawiki:1.39.3
 
 RUN set -eux; \
         \
